@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Belajar Android</string>
+    <string name="gambar_logo">gambar logo</string>
+    <string name="email_or_phone">Email or Phone</string>
+    <string name="password">Password</string>
+    <string name="log_in">Log In</string>
+    <string name="sign_up_for_facebook">Sign Up For Facebook</string>
+    <string name="question_mark">question mark</string>
+</resources>
